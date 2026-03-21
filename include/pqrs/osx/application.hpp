@@ -1,6 +1,6 @@
 #pragma once
 
-// pqrs::osx::application v1.0
+// pqrs::osx::application v1.1
 
 // (C) Copyright Takayama Fumihiko 2026.
 // Distributed under the Boost Software License, Version 1.0.
