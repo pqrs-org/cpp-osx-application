@@ -20,7 +20,5 @@ jobs:
         run: brew install xcodegen
       - name: example
         run: make -C example
-      - name: example-app
-        run: make -C example-app
       - name: tests
         run: make -C tests
