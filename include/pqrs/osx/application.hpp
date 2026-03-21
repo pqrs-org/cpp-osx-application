@@ -30,6 +30,10 @@ inline void run(void) {
   pqrs_osx_application_run();
 }
 
+inline void stop(void) {
+  pqrs_osx_application_stop();
+}
+
 } // namespace application
 } // namespace osx
 } // namespace pqrs
