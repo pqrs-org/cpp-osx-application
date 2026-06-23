@@ -2,7 +2,7 @@
 #include <pqrs/osx/application.hpp>
 #include <thread>
 
-int main(void) {
+int main() {
   std::cout << "The application will exit in 3 seconds." << std::endl;
 
   pqrs::osx::application::set_activation_policy(pqrs::osx::application::activation_policy::regular);
